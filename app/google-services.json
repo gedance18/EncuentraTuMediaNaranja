@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "181728848185",
+    "firebase_url": "https://encuentratumedianaranja-3fa09-default-rtdb.firebaseio.com",
+    "project_id": "encuentratumedianaranja-3fa09",
+    "storage_bucket": "encuentratumedianaranja-3fa09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181728848185:android:f303c56233cfd6615de0e8",
+        "android_client_info": {
+          "package_name": "com.EncuentraTuMediaNaranja.package"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACRWJw6tKoKCtaW1-2OAZkU_WrzUmVLvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181728848185:android:4131fa8b0c8a1d165de0e8",
+        "android_client_info": {
+          "package_name": "com.example.encuentratumedianaranja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACRWJw6tKoKCtaW1-2OAZkU_WrzUmVLvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
